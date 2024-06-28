@@ -19,15 +19,15 @@ function wishMe() {
     }
 
     else if(hr == 12) {
-        speak("Good noon Boss");
+        speak("jai shree ram");
     }
 
     else if(hr > 12 && hr <= 17) {
-        speak("Good Afternoon Boss");
+        speak("jai shree ram");
     }
 
     else {
-        speak("Good Evening Boss");
+        speak("jai shree ram");
     }
 }
 
